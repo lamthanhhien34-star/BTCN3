@@ -1,0 +1,11 @@
+{
+  "reviews": 498593,
+  "products": 76656,
+  "users": 184740,
+  "avg_rating": 4.318277633259994,
+  "negative_rate": 0.11160806509517783,
+  "verified_rate": 0.8851608426111076,
+  "helpful_votes": 550173,
+  "analysis_mode": "FAST",
+  "analysis_scope_note": "Dashboard generated from a bounded subset of up to 500,000 reviews for computational efficiency."
+}

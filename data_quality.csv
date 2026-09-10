@@ -1,0 +1,12 @@
+metric,value
+Configured max review rows,500000.0
+Bounded raw review rows,500000.0
+Clean/joined analysis rows,498593.0
+Metadata matched rows,498593.0
+Metadata match rate,1.0
+Aspect NLP max rows,150000.0
+Reviews containing tracked aspects,92697.0
+Aspect events,153307.0
+Negative complaint max rows,50000.0
+Representative reviews exported,5000.0
+Transformer rows,957.0

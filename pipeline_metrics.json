@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-09-10T11:01:45.486047Z",
+  "runtime": "Google Colab + Google Drive",
+  "spark_version": "4.0.4",
+  "analysis_mode": "FAST",
+  "configured_max_reviews": 500000,
+  "bounded_raw_reviews": 500000,
+  "analysis_reviews": 498593,
+  "metadata_match_rate": 1.0,
+  "max_aspect_reviews": 150000,
+  "reviews_with_aspects": 92697,
+  "aspect_events": 153307,
+  "max_negative_complaint_reviews": 50000,
+  "web_products": 1500,
+  "representative_reviews": 5000,
+  "nlp_sample_rows": 957,
+  "latest_review_month": "2023-03-01 00:00:00",
+  "method_note": "FAST/BALANCED mode uses a bounded review subset to reduce runtime. Results should be interpreted within the analyzed subset.",
+  "risk_note": "Risk score is an analytical prioritization signal, not a product safety certification."
+}

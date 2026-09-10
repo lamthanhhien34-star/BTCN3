@@ -1,0 +1,7 @@
+{
+  "sample_rows": 957,
+  "mismatch_rows": 134,
+  "mismatch_rate": 0.1400208986415883,
+  "model": "distilbert-base-uncased-finetuned-sst-2-english",
+  "device": "CPU"
+}
